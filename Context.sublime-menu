@@ -1,14 +1,19 @@
 [
     {
-        "caption": "Search on Google!",
-        "command": "google_search"
-    },
-    {
-        "caption": "Search on Duck Duck Go!",
-        "command": "duckduckgo_search"
-    },
-    {
-        "caption": "Custom Search!",
-        "command": "custom_search"
-    },
+        "caption": "Web Search",
+        "children": [
+                {
+                    "caption": "Search on Google!",
+                    "command": "google_search"
+                },
+                {
+                    "caption": "Search on Duck Duck Go!",
+                    "command": "duckduckgo_search"
+                },
+                {
+                    "caption": "Custom Search!",
+                    "command": "custom_search"
+                },
+        ]
+    }
 ]

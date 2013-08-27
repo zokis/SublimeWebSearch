@@ -13,14 +13,10 @@ class SearchAbstract(sublime_plugin.TextCommand):
         webbrowser.open(self.search_url % ''.join(selection))
 
     def is_visible(self):
-        is_visible = False
-        for region in self.view.sel():
-            if not region.empty():
-                is_visible = True
-        return is_visible
+        return True
 
     def is_enabled(self):
-        return self.is_visible()
+        return any((not region.empty()) for region in self.view.sel())
 
 
 class GoogleSearchCommand(SearchAbstract):
