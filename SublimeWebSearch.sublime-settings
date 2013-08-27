@@ -1,0 +1,10 @@
+{
+    // stackoverflow
+    "custom_url": "http://stackoverflow.com/search?q=",
+    // yahoo!
+    // "custom_url": "http://search.yahoo.com/search?p=",
+    // Quora
+    // "custom_url": "http://www.quora.com/search?q=",
+    // bing
+    // "custom_url": "http://bing.com/search?q=",
+}
