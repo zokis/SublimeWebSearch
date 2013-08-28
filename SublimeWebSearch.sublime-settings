@@ -7,4 +7,40 @@
     // "custom_url": "http://www.quora.com/search?q=",
     // bing
     // "custom_url": "http://bing.com/search?q=",
+    // Python3 Docs
+    // "custom_url": "http://docs.python.org/3/search.html?q=",
+    // Python2 Docs
+    // "custom_url": "http://docs.python.org/2/search.html?q=",
+    // pypi
+    // "custom_url": "https://pypi.python.org/pypi?%3Aaction=search&term=",
+    // crate
+    // "custom_url": "https://crate.io/?q=",
+    // Ruby Docs
+    // "custom_url": "http://ruby-doc.com/search.html?q=",
+    // RubyGems
+    // "custom_url": "https://rubygems.org/search?utf8=%E2%9C%93&query=",
+    // npm
+    // "custom_url": "https://npmjs.org/search?q=",
+    // Package Control
+    // "custom_url": "https://sublime.wbond.net/search/",
+    // Github
+    // "custom_url": "https://github.com/search?q=",
+    // Bitbucket
+    // "custom_url": "https://bitbucket.org/repo/all?name=",
+    // PHP Classes
+    // "custom_url": "http://phpclasses.org/search.html?go_search=1&words=",
+    // dochub css
+    // "custom_url": "http://dochub.io/#css/",
+    // dochub html
+    // "custom_url": "http://dochub.io/#html/",
+    // dochub javascript
+    // "custom_url": "http://dochub.io/#javascript/",
+    // dochub dom
+    // "custom_url": "http://dochub.io/#dom/",
+    // dochub jquery
+    // "custom_url": "http://dochub.io/#jquery/",
+    // dochub php
+    // "custom_url": "http://dochub.io/#php/",
+    // dochub python
+    // "custom_url": "http://dochub.io/#python/",
 }
